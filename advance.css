@@ -1,0 +1,53 @@
+.pics{
+    /* float: right; */
+    padding: 15px;
+    display: inline-block;
+    padding-top: 0px;
+}
+
+.span_left{
+    min-width: 185px;
+    display: inline-block
+
+}
+.span_right,.span_left{ font-size: 22px;                       
+
+}
+input{display:  inline;
+    align-items:center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    width: 400px;
+    height: 30px;
+}
+label{
+    font-size: large;
+}
+.line_one{
+    margin-bottom: 20px;
+}
+.line_two{
+    margin-bottom: 20px;
+}
+.line_three{
+    margin-bottom: 20px;
+}
+.line_four{
+    margin-bottom: 20px;
+}
+.t{
+    margin-left: 1300px;
+}
+.p,.t{
+    font-size: 20px;
+    
+}
+.tp{
+    padding-bottom: 20px;
+}
+
+.container{
+    margin-top: 100px;
+    margin-left: 45px;
+}
