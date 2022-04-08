@@ -5,6 +5,9 @@ body{
     size: 20px;
     height: 30px;
     width: 30px;
+    display: flex;
+    margin-right: 1000px;
+    padding-right: 0px;
 }
 a{
     margin: 5px;
@@ -13,16 +16,6 @@ a{
 }
 a:hover{
     text-decoration: underline;
-}
-nav{
-    display: flex;
-    justify-content: space-between;
-}
-.header-items{
-    display: flex;
-    align-items: center;
-    padding-left: 20px;
-    margin-right: 25px;
 }
 ul > a,ul > img{
     padding: 0 8px;
